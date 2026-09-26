@@ -66,7 +66,7 @@ También implementa middleware de manejo de errores, rate limiting y medidas de 
 
 🔗 [Backend](https://github.com/joacocaturelli/ecommerce-api)
 
-[API Docs](https://backend-e-commerce-keoz.onrender.com/api/docs/)
+🔗 [API Docs](https://backend-e-commerce-keoz.onrender.com/api/docs/)
 
 ---
 
