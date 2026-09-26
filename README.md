@@ -87,4 +87,4 @@ Incluye herramientas interactivas, integración con una API de clima, geolocaliz
 ## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/joaquincaturelli/) ·
-[Portfolio](https://joacocaturelli.github.io/Portfolio/))
+[Portfolio](https://joacocaturelli.github.io/Portfolio/)
