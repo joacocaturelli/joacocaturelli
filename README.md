@@ -1,57 +1,64 @@
 # Hola, soy Joaquín Caturelli 👋
 
-### Junior Full Stack Developer
+### Junior Full Stack Developer · JavaScript · React · Node.js
 
-Desarrollador Full Stack Junior enfocado en el desarrollo web, con experiencia práctica
-con React, JavaScript, Node.js y Express.
+Desarrollador Full Stack Junior especializado en JavaScript, con experiencia práctica desarrollando aplicaciones web completas con React, Node.js y Express.
 
-Actualmente estoy buscando mi primera oportunidad profesional en desarrollo de software,
-donde pueda seguir creciendo, aportar mis conocimientos y trabajar en proyectos reales.
+He trabajado con APIs REST, autenticación y autorización, bases de datos relacionales y NoSQL, integración de servicios externos y despliegue de aplicaciones.
+
+Actualmente busco mi primera oportunidad profesional en desarrollo de software.
 
 ---
 
 ## 🛠️ Tecnologías
 
 ### Frontend
-- JavaScript
+- JavaScript (ES6+)
 - React
-- Redux Toolkit
 - React Router
+- Redux Toolkit
 - HTML5
 - CSS3
+- Axios
+- CSS Modules
+- Diseño responsivo
 
 ### Backend
 - Node.js
 - Express
-- REST APIs
+- APIs REST
 - JWT
-- Prisma
+- Prisma ORM
+- Mongoose
+
+### Bases de Datos
 - PostgreSQL
 - MongoDB
 
 ### Herramientas y servicios
 - Git
 - GitHub
-- Axios
 - Stripe
 - Cloudinary
-- Swagger
+- Swagger/OpenAPI
 - Jest
+- Vite
 
 ---
 
 ## 🚀 Proyecto destacado
 
-### 🛒 Full Stack E-commerce
+### 🛒 Mi Tiendita Online — E-Commerce Full Stack
 
-Aplicación e-commerce full stack desarrollada con React y Node.js.
+Aplicación de E-commerce full-stack desarrollada y desplegada como proyecto autónomo, con frontend y backend separados.
 
-**Frontend:** React, Redux Toolkit, React Router, Axios, CSS Modules  
-**Backend:** Node.js, Express, Prisma, PostgreSQL, MongoDB  
-**Servicios:** Stripe, Cloudinary, Swagger
+Frontend: React, Redux Toolkit, React Router, Axios, CSS Modules
+Backend: Node.js, Express, Prisma, PostgreSQL, MongoDB
+Servicios: Stripe, Cloudinary, Swagger/OpenAPI
 
-Incluye autenticación y autorización, gestión de usuarios y roles, carrito de compra,
-wishlist, panel de administración, gestión de productos y proceso de pago mediante Stripe.
+Incluye catálogo y búsqueda de productos, carrito, favoritos, autenticación y autorización, rutas protegidas, control de acceso según roles, panel administrativo, gestión de productos, pedidos y reseñas, y procesamiento de pagos mediante Stripe.
+
+También implementa middleware de manejo de errores, rate limiting y medidas de seguridad con Helmet.
 
 🔗 [Ver aplicación](https://mitienditaonline.netlify.app/)
 
@@ -59,16 +66,17 @@ wishlist, panel de administración, gestión de productos y proceso de pago medi
 
 🔗 [Backend](https://github.com/joacocaturelli/ecommerce-api)
 
+[API Docs](https://backend-e-commerce-keoz.onrender.com/api/docs/)
+
 ---
 
 ## 📂 Otros proyectos
 
-### Dashboard de herramientas
+### Tools Dashboard — Aplicación Frontend Interactiva
 
-Dashboard desarrollado con JavaScript Vanilla como proyecto final del módulo Frontend en mi Bootcamp de Fullstack + IA.
+Aplicación frontend desarrollada como proyecto final del módulo Frontend del bootcamp.
 
-Incluye diferentes herramientas interactivas, consumo de APIs, geolocalización,
-LocalStorage y una arquitectura modular basada en ES6.
+Incluye herramientas interactivas, integración con una API de clima, geolocalización, LocalStorage y una arquitectura modular basada en JavaScript ES6 y componentes reutilizables.
 
 🔗 [Ver proyecto](https://joacocaturelli.github.io/Tools-Dashboard/)
 
@@ -76,15 +84,7 @@ LocalStorage y una arquitectura modular basada en ES6.
 
 ---
 
-## 📚 Actualmente
-
-- 🎯 Buscando mi primera oportunidad profesional como Junior Full Stack Developer.
-- 💻 Mejorando continuamente mis conocimientos de desarrollo web.
-- 🚀 Trabajando en proyectos personales para seguir desarrollando experiencia práctica.
-
----
-
 ## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/joaquincaturelli/) ·
-[Portfolio](https://joacocaturelli.github.io/Proyecto1)
+[Portfolio](https://joacocaturelli.github.io/Portfolio/))
